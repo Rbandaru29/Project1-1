@@ -11,7 +11,7 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 20px;
+      font-size: 100px;
       color: #FFF;
       line-height: 29px;
       }
