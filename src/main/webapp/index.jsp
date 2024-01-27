@@ -6,14 +6,13 @@
       html, body {
       min-height: 100%;
       }
-     <!-- commemt -->
       body, div, form, input, select, p {
       padding: 0;
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 20px;
-      color: #FFF;
+      color: #ABC;
       line-height: 29px;
       }
       h1 {
