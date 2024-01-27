@@ -12,7 +12,7 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 20px;
-      color: #ABC;
+      color: #FFF;
       line-height: 29px;
       }
       h1 {
