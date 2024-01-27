@@ -20,7 +20,7 @@
       position: absolute;
       margin: 0;
       font-size: 100px;
-      color: #FFF;
+      color: #ABC;
       z-index: 2;
       }
       p.top-info {
